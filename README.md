@@ -9,8 +9,8 @@ This project presents an end-to-end Credit Risk Analytics solution using synthet
 🖼️ Dashboard Overview
 
 📊 Portfolio Overview
+
 ![Retail_Banking_Credit_Risk](Portfolio_Overview.png)
-"Portfolio Overview" (Retail_banking_dashboard.png)
 
 🔍 Key Visuals & Explanation
 
@@ -42,7 +42,7 @@ This project presents an end-to-end Credit Risk Analytics solution using synthet
 
 📊 Risk Deep Dive
 
-![Risk Deep Dive](Retail_banking_dashboard (2).png)
+![Retail_Banking_Credit_Risk](Risk_Deep_Dive.png)
 
 🔍 Key Visuals & Explanation
 
@@ -73,7 +73,7 @@ This project presents an end-to-end Credit Risk Analytics solution using synthet
 
 📊 Delinquency & Migration
 
-![Delinquency & Migration](Retail_banking_dashboard (3).png)
+![Retail_Banking_Credit_Risk](Deliquency_and_Migration.png)
 
 🔍 Key Visuals & Explanation
 
