@@ -1,0 +1,16 @@
+branch_id,branch_group,branch_risk_factor,override_rate,exposure_multiplier,region_type
+BR01,Low Risk,0.85,0.006,1.4,Urban
+BR02,Low Risk,0.85,0.006,1.4,Urban
+BR03,Low Risk,0.85,0.006,1.4,Urban
+BR04,Low Risk,0.85,0.006,1.4,Urban
+BR05,Normal,1,0.01,1,Semi-Urban
+BR06,Normal,1,0.01,1,Semi-Urban
+BR07,Normal,1,0.01,1,Semi-Urban
+BR08,Normal,1,0.01,1,Semi-Urban
+BR09,Normal,1,0.01,1,Semi-Urban
+BR10,Normal,1,0.01,1,Semi-Urban
+BR11,High Risk,1.2,0.015,0.9,Rural
+BR12,High Risk,1.2,0.015,0.9,Rural
+BR13,High Risk,1.2,0.015,0.9,Rural
+BR14,High Risk,1.2,0.015,0.9,Rural
+BR15,Stress,1.35,0.02,1.2,Rural
