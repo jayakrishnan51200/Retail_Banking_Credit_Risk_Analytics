@@ -73,7 +73,7 @@ This project presents an end-to-end Credit Risk Analytics solution using synthet
 
 📊 Delinquency & Migration
 
-![Retail_Banking_Credit_Risk](Deliquency_and_Migration.png)
+![Retail_Banking_Credit_Risk](PowerBI_Dashboard_Preview/Deliquency_and_Migration.png)
 
 🔍 Key Visuals & Explanation
 
