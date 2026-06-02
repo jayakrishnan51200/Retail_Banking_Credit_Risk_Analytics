@@ -10,7 +10,7 @@ This project presents an end-to-end Credit Risk Analytics solution using synthet
 
 📊 Portfolio Overview
 
-![Retail_Banking_Credit_Risk](Portfolio_Overview.png)
+![Retail_Banking_Credit_Risk](PowerBI_Dashboard_Preview/Portfolio_Overview.png)
 
 🔍 Key Visuals & Explanation
 
